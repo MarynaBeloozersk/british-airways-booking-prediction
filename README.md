@@ -16,7 +16,7 @@ The workflow includes:
 
 A short presentation explaining the project, methodology, results and business recommendations is available on YouTube.
 
-**YouTube:** https://youtu.be/https://studio.youtube.com/video/Y75wLmyy6Eo/edit
+**YouTube:** https://youtu.be/ https://www.youtube.com/watch?v=ybwXiVbVWaU
 
 ## Repository Contents
 
